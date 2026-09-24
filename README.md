@@ -4,7 +4,7 @@ A full-stack machine learning web application that predicts electricity peak dem
 
 Flask REST API backend, vanilla HTML/CSS/JS frontend, dual Random Forest classifiers.
 
-Based on the research paper "Peak Electricity Demand Prediction Using Dual-Granularity Random Forest Classification: A Case Study on the AEP Transmission Zone" - Mayank, Aishwarya Shelke, Dr. Seema Shukla, Sharda University.
+Based on the research paper "Peak Electricity Demand Prediction Using Dual-Granularity Random Forest Classification: A Case Study on the AEP Transmission Zone" - Mayank and Dr. Seema Shukla, Sharda University.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Flask](https://img.shields.io/badge/backend-Flask-black)
