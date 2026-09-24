@@ -172,7 +172,7 @@ MIT License. Feel free to use, modify, and distribute with attribution.
 If you use this work, please cite:
 
 ```
-Mayank, A. Shelke, and S. Shukla, "Peak Electricity Demand Prediction Using
+Mayank and S. Shukla, "Peak Electricity Demand Prediction Using
 Dual-Granularity Random Forest Classification: A Case Study on the AEP
 Transmission Zone," Sharda University, Greater Noida, India.
 ```
